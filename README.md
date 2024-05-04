@@ -5,9 +5,9 @@ This is a FastAPI application with CRUD (Create, Read, Update, Delete) operation
 ## Prerequisites
 Before you begin, ensure you have the following installed:
  
-* [![Python][Python]][Python-url]
-* [![FastAPI][FastAPI]][FastAPI-url]
-* [![MongoDB][MongoDB]][MongoDB-url]
+[![Python][Python]][Python-url]
+[![FastAPI][FastAPI]][FastAPI-url]
+[![MongoDB][MongoDB]][MongoDB-url]
 
 ## Install + configure the project
 
@@ -86,7 +86,6 @@ PUT /update/book/{item_id}: Update details of a specific item by ID.
 DELETE /{item_id}: Delete a specific item by ID.
 GET /items/search?keyword={search_query}: Search for items by a specific query.
 ```
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
